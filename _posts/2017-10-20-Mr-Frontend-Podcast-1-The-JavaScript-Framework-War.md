@@ -3,7 +3,9 @@ layout: post
 title:  "🎧 Mr Frontend Podcast #1 - The JavaScript Framework War"
 date:   2017-10-20 08:51:09 +0200
 categories: podcast
+image: "/images/2017/10/20/Mr-Frontend-Podcast.png"
 ---
+
 This is the first episode of the Mr Frontend Podcast.
 
 https://soundcloud.com/mr-frontend-community/mr-frontend-podcast-episode-1-javascript-framework-war

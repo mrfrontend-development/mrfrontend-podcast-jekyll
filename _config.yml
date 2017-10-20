@@ -21,7 +21,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: frontendmr
-github_username:  mrfrontendcommunity
+github_username:  mrfrontend-development
+github_repo: https://github.com/mrfrontend-development/mrfrontend-podcast-jekyll/
+version: 0.0.1
+itunes_url: https://itunes.apple.com/nl/podcast/mr-frontend-podcast/id1271838550?l=en&mt=2
 
 # Build settings
 markdown: kramdown
