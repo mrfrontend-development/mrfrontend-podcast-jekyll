@@ -14,10 +14,17 @@
     {% endif %}
   </title>
 
+  {% if site.envoirment == "dev" %}
+    <link rel="stylesheet" href="{{ site.baseurl }}dist/css/poole.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}dist/css/syntax.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}dist/css/hyde.css">
+  {% else %}
+    <link rel="stylesheet" href="{{ site.baseurl }}css/poole.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}css/syntax.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}css/hyde.css">
+  {% endif %}
+
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}css/poole.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}css/syntax.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   <!-- Icons -->

@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   In the podcast we talk about life as Developer, HTML, CSS, JavaScript and a lot more 🤓
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+envoirment: 'dist'
 twitter_username: frontendmr
 github_username:  mrfrontend-development
 github_repo: https://github.com/mrfrontend-development/mrfrontend-podcast-jekyll/

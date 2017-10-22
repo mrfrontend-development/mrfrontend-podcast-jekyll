@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-10-22T11:01:43+02:00</updated><id>/</id><title type="html">Mr Frontend Podcast</title><subtitle>Podcast by Mr Frontend. In the podcast we talk about life as Developer, HTML, CSS, JavaScript and a lot more 🤓</subtitle><entry><title type="html">🎧 Mr Frontend Podcast #1 - The JavaScript Framework War</title><link href="/podcast/2017/10/20/Mr-Frontend-Podcast-1-The-JavaScript-Framework-War.html" rel="alternate" type="text/html" title="🎧 Mr Frontend Podcast #1 - The JavaScript Framework War" /><published>2017-10-20T08:51:09+02:00</published><updated>2017-10-20T08:51:09+02:00</updated><id>/podcast/2017/10/20/Mr-Frontend-Podcast-1-The-JavaScript-Framework-War</id><content type="html" xml:base="/podcast/2017/10/20/Mr-Frontend-Podcast-1-The-JavaScript-Framework-War.html">&lt;p&gt;This is the first episode of the Mr Frontend Podcast.&lt;/p&gt;
+
+&lt;p&gt;https://soundcloud.com/mr-frontend-community/mr-frontend-podcast-episode-1-javascript-framework-war&lt;/p&gt;
+
+&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
+&lt;div class=&quot;embed-container&quot;&gt;    &lt;iframe title=&quot;YouTube video player&quot; width=&quot;640&quot; height=&quot;390&quot; src=&quot;//www.youtube.com/embed/gBHWwVqWQ9A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;i&gt;This is not the transcribed version of the podcast, but a summary of what I talked about in the podcast!&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;This week I was listening to a podcast &lt;a href=&quot;https://soundcloud.com/starthere-webdev/learn-a-framework-not-a-language&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Start here Web Development - Learn a Framework not a Language&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;At the start, his idea was making me a little bit angry, because in my opinion developers should learn Vanilla JavaScript before working with a JavaScript Framework.&lt;/p&gt;
+
+&lt;p&gt;Learning Vanilla JavaScript first then a JavaScript framework has some advantages and disadvantages.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Pros &amp;amp; Cons for learning Vanilla JavaScript first&lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;Learning Vanilla JavaScript will give you the feeling of going slowly.&lt;/li&gt;
+ 	&lt;li&gt;“Hello World” examples are boring!&lt;/li&gt;
+ 	&lt;li&gt;After a while, it will give you a strong knowledge base&lt;/li&gt;
+ 	&lt;li&gt;Helps you fix bugs more easy and faster&lt;/li&gt;
+ 	&lt;li&gt;When you have more experience, it will make you more flexible in the choice of a JavaScript Framework&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;Pros &amp;amp; Cons for learning JavaScript by a Framework &lt;/b&gt;&lt;/h2&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;Frameworks make the development easier&lt;/li&gt;
+ 	&lt;li&gt;Will give you a jump start&lt;/li&gt;
+ 	&lt;li&gt;If there is a bug, you gonna have a hard time fixing.&lt;/li&gt;
+ 	&lt;li&gt;Are well tested across browsers&lt;/li&gt;
+ 	&lt;li&gt;Won’t force you to learn the basics of Vanilla JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Well, both lists could go on and on.&lt;/p&gt;
+
+&lt;p&gt;I prefer learning Vanilla JavaScript first, that is because of my own experience with not knowing JavaScript. &lt;a href=&quot;https://blog.mrfrontend.org/2016/02/the-starting-story-of-mr-frontend-nl/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;I got refused a lot when searching a new job&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;But in the end, everyone is a different learner! I like to learn from video’s, you like to learn from books and someone else likes to learn differently. But that’s not wrong!&lt;/p&gt;
+
+&lt;p&gt;We are all different types of people. But learning is the best skill you can have as a Developer! So it’s pretty important to know your way of learning!&lt;/p&gt;
+
+&lt;p&gt;You should empower the way you like to learn, it will make you more happy and motivated. If your friend likes to learn from books, let him/her do that. Do you like to watch coding video’s on Youtube? Stick with it! Know your way of learning the best!&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;My 3 tips for deciding how to learn JavaScript&lt;/b&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;b&gt;Tip 1&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Pick the way you like to learn!&lt;/p&gt;
+
+&lt;p&gt;Try different things before you decide. There is no right or wrong! There is only your way of doing it. After a while, you will discover what works for you!&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Tip 2&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;When your hitting a knowledge wall or can’t figure out a bug, ask for HELP!&lt;/p&gt;
+
+&lt;p&gt;Don’t wait a week or month to fix your issue! Just ask for help!&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Tip 3&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Find a developer that wants to help you, guide you or mentor you!&lt;/p&gt;
+
+&lt;p&gt;(&lt;i&gt;Btw, that is where Mr Frontend is all about. Helping you to learn Frontend Development more effectively with help!&lt;/i&gt;)&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Question!&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;My question for you to answer in the comments, how do you like to learn JavaScript? The Vanilla way or the Framework way? What did it bring you?&lt;/p&gt;
+
+&lt;p&gt;Share your story with me! And if you need any help, please let me know 😊&lt;/p&gt;</content><author><name></name></author><summary type="html">This is the first episode of the Mr Frontend Podcast.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/2017/10/20/Mr-Frontend-Podcast.png" /></entry></feed>
